@@ -318,7 +318,9 @@ used formatted print statements to ensure a clean table structure
 
 **Your Answer:** *(3-5 sentences)*
 
-[Write your answer here.]
+[A process has its own memory space, while a thread is a lightweight unit that shares memory within a process.
+We used threads in this assignment because they have low overhead and make concurrent scheduling easier.
+In SchedulerSimulation.java, our simulated Process is executed by a real Java thread using new Thread(process) inside addProcessToQueue().]
 
 ## Question 2: Ready Queue Behavior
 
