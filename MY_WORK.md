@@ -353,15 +353,15 @@ Example from my output:
 
 **Your Answer:** *(3-5 sentences overall; one short explanation per state)*
 
-1. **New**: [When is P1 in the New state?]
+1. **New**: [When the process object is instantiated using new Process() before the thread starts.]
 
-2. **Runnable**: [When does P1 become Runnable?]
+2. **Runnable**: [When Thread.start() is called, making the thread ready for the CPU scheduler.]
 
-3. **Running**: [When is P1 Running?]
+3. **Running**: [When the scheduler picks the process and its run() method is actively executing.]
 
-4. **Waiting**: [When and why would a thread be Waiting?]
+4. **Waiting**: [When the thread pauses using Thread.sleep() or waits for another thread using join().]
 
-5. **Terminated**: [When is P1 Terminated?]
+5. **Terminated**: [⁠When the process finishes executing all its instructions inside the run() method and the thread dies.]
 
 ## Question 4: Real-World Applications
 
