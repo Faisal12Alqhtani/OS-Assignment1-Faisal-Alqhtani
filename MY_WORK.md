@@ -262,7 +262,7 @@ used formatted print statements to ensure a clean table structure
 
 **Your Answer:** *(5-7 sentences)*
 
-[Write your answer here.]
+[In this assignment, I really got a clearer picture of how Java handles multithreading. Using things like ⁠Runnable⁠ and ⁠Thread.start()⁠ helped me understand how background tasks actually run. Also, playing around with ⁠Thread.sleep()⁠ made it easier to see how threads pause and wait. Honestly, the coolest part was seeing how threads run concurrently without you having to manually control every single step. It made the stuff we study in lectures actually make sense in practice.]
 
 ## Question 2: What was the most challenging part of this assignment?
 
