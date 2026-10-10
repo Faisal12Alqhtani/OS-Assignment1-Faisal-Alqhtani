@@ -371,18 +371,22 @@ Example from my output:
 
 **Your Answer:** *(3-5 sentences per example)*
 
-### Example 1 (operating-system level): [Name of scenario]
+### Example 1 (operating-system level): [ OS cpu Scheduler]
 
 **Description**:
-[Describe the real-world scenario.]
+[The OS CPU scheduler uses round-robin to share processor time between open apps like 
+a browser and a music player, 
+just like our code does a context switch.]
 
 **Why Round-Robin works well here**:
 [Fairness, responsiveness, predictability?]
 
-### Example 2: [Name of application/scenario]
+### Example 2: [Web server]
 
 **Description**:
-[Describe the real-world scenario or application.]
+[A web server handles multiple user requests in turns,
+re-queuing unfinished connections 
+just like our Java program handles processes.]
 
 **Why Round-Robin works well here**:
 [Fairness, responsiveness, predictability?]
