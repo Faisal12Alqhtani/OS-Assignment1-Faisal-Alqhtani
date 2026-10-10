@@ -332,7 +332,10 @@ In SchedulerSimulation.java, our simulated Process is executed by a real Java th
 
 **Your Answer:** *(3-5 sentences)*
 
-[Write your answer here.]
+[In Round-Robin, if a process doesn't finish its burst time, 
+it gets sent back to the ready queue to ensure fairness. For example,
+my program output showed process P3 getting re-queued multiple times until it finally finished.
+This prevents any single process from hogging the CPU.]
 
 Example from my output:
 ```
