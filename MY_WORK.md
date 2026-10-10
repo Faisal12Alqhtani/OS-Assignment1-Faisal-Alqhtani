@@ -141,17 +141,19 @@
 
 ---
 
-### Entry 2 - [Date and Time]
-**What I did**:
+### Entry 2 - [2026-10-8]
+**What I did**:imlemeted Feature 1  Procees Priority
 
-**Details**:
+**Details**:updated the procees class adding a priority variable with random value between 1and 10 and getter method
 
 **Challenges**:
+making sure the priority value was generated within the correct range 1-10 without breaking the proces creation logic
 
 **Solution**:
+uesd random.nextint(10)
 
 **Time spent**:
-
+50 mintues
 ---
 
 ### Entry 3 - [Date and Time]
