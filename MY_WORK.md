@@ -278,7 +278,7 @@ used formatted print statements to ensure a clean table structure
 
 **Your Answer:** *(5-7 sentences)*
 
-[Write your answer here.]
+[Whenever I got stuck, I just went back to basics and tested things step by step. I used a ton of ⁠System.out.println()⁠ statements everywhere just to see what values were changing and where my code was messing up. For the Git issues, I just looked up a few commands and asked a friend to make sure my commits were going through properly. Breaking the assignment into smaller chunks and fixing errors one by one really helped me finish it without losing my mind]
 
 ## Question 4: How can you apply multithreading concepts in real-world applications?
 
@@ -286,7 +286,7 @@ used formatted print statements to ensure a clean table structure
 
 **Your Answer:** *(5-7 sentences)*
 
-[Write your answer here.]
+[Multithreading is everywhere in real-world software, and understanding it helps explain how modern apps run smoothly. For example, in a web browser like Chrome, one thread handles the user interface while other background threads load images and fetch data simultaneously. Similarly, in video games, one thread can render graphics while another manages player inputs and sound effects. Without multithreading, clicking a button or loading a heavy image would freeze the entire app. Seeing how threads work in this assignment made me realize how important concurrency is for building responsive real-world applications.]
 
 ### Optional: What would you like to learn more about?
 
