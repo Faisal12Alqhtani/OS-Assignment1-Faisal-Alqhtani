@@ -129,16 +129,15 @@
 
 ## Your Development Log
 
-### Entry 1 - [Date and Time]
-**What I did**:
+### Entry 1 - [2026-10-7]
+**What I did**:downloaded github then initialized mu student id in he code
 
-**Details**:
+**Details**:Installed Git and Github
 
-**Challenges**:
+**Challenges**:faced some initial setub and connection
 
-**Solution**:
-
-**Time spent**:
+**Solution**: Resolved the terminal configuration and sccessfully linked
+**Time spent**:30 minutes
 
 ---
 
