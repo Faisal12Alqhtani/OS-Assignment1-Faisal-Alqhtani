@@ -270,7 +270,7 @@ used formatted print statements to ensure a clean table structure
 
 **Your Answer:** *(5-7 sentences)*
 
-[Write your answer here.]
+[For me, the hardest part was definitely working on Feature 3 and trying to calculate the waiting and turnaround times accurately. Getting ⁠System.currentTimeMillis()⁠ in the right spot within the loops took a few tries because my initial outputs were completely off. Also, dealing with Git commits for every single feature while trying to fix terminal errors at the beginning was pretty stressful. Balancing the Java logic and making sure the simulation didn't break kept me stuck for a while.]
 
 ## Question 3: How did you overcome the challenges you faced?
 
