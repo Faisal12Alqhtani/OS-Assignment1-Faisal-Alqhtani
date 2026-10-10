@@ -163,25 +163,47 @@ imlemeted Feature 2 context switch counter
 **Details**:
  added a static varibal contextswitchcount to track how many times a process start running and incremented it inside the scheduling execution
  loop
+
+
+ 
 **Challenges**:
+
+
+
 Ensuring the counter accuraately incremments only when a genuine context switch accurs rather then during every cpu cyclee
+
+
 **Solution**:
+
+
 placed the incremnt logic right where the scheduler picks new process to run insied
+
+
 **Time spent**:
+
+
 1 hour
 ---
 
-### Entry 4 - [Date and Time]
+### Entry 4 - [2026-10-10 12:00]
 **What I did**:
+ imlemeted Feature 33  waiting time tracking 
 
+ 
 **Details**:
+ingreted tracking to calculate turnaround and wating times for eche process
+
 
 **Challenges**:
+accuralty clauating the waiting time formulavand aligning thhe text properly in the terminal output table
+
 
 **Solution**:
 
-**Time spent**:
+used formatted print statements to ensure a clean table structure
 
+**Time spent**:
+1.5 hours
 ---
 
 ### Entry 5 - [Date and Time]
