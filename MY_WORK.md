@@ -156,17 +156,19 @@ uesd random.nextint(10)
 50 mintues
 ---
 
-### Entry 3 - [Date and Time]
+### Entry 3 - [2026-10-9 ]
 **What I did**:
+imlemeted Feature 2 context switch counter
 
 **Details**:
-
+ added a static varibal contextswitchcount to track how many times a process start running and incremented it inside the scheduling execution
+ loop
 **Challenges**:
-
+Ensuring the counter accuraately incremments only when a genuine context switch accurs rather then during every cpu cyclee
 **Solution**:
-
+placed the incremnt logic right where the scheduler picks new process to run insied
 **Time spent**:
-
+1 hour
 ---
 
 ### Entry 4 - [Date and Time]
